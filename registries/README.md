@@ -2,7 +2,7 @@
 
 As part of the [Registries of Good Practice project](https://github.com/digipres/registries-of-practice-project), I'm surveying the landscape of 'registries' and related information resources used in digital preservation.&#x20;
 
-{% embed url="https://www.tldraw.com/v/mTxpCT7vGqBnNeCB6BSkozz?p=i8xOfrpl1FPcAGOhYZUVx&v=-1183,-368,1461,1462" %}
+{% embed url="https://www.tldraw.com/v/mTxpCT7vGqBnNeCB6BSkozz?p=i8xOfrpl1FPcAGOhYZUVx&v=-371,-369,1461,1462" %}
 Click for a visual map of registries...
 {% endembed %}
 
